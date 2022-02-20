@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonapap&count_private=true&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonapap&count_private=true&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonapap&layout=compact&count_private=true&theme=highcontrast&hide=go,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
